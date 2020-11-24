@@ -1,51 +1,50 @@
 {
-"users": [
-  {
-    "id": "1",
-    "name": "Piter",
-    "secondName": "Orlov",
-    "email": "test@gmail.com",
-    "phone": "+30630000000",
-    "dateRegistration": "25.10.2020"
-  },
-  {
-    "id": "2",
-    "name": "Monika",
-    "secondName": "Orlov",
-    "email": "test@gmail.com",
-    "phone": "+30630000000",
-    "dateRegistration": "25.10.2020"
-  },
-  {
-    "id": "3",
-    "name": "Abbama",
-    "secondName": "Orlov",
-    "email": "test@gmail.com",
-    "phone": "+30630000000",
-    "dateRegistration": "25.10.2020"
-  },
-    {
-    "id": "1",
-    "name": "Piter",
-    "secondName": "Orlov",
-    "email": "test@gmail.com",
-    "phone": "+30630000000",
-    "dateRegistration": "25.10.2020"
-  },
-  {
-    "id": "2",
-    "name": "Monika",
-    "secondName": "Orlov",
-    "email": "test@gmail.com",
-    "phone": "+30630000000",
-    "dateRegistration": "25.10.2020"
-  },
-  {
-    "id": "3",
-    "name": "Abbama",
-    "secondName": "Orlov",
-    "email": "test@gmail.com",
-    "phone": "+30630000000"
-  }
-]
+	"users": [{
+			"id": "1",
+			"name": "Piter",
+			"secondName": "Orlov",
+			"email": "test@gmail.com",
+			"phone": "+30630000000",
+			"dateRegistration": "25.10.2020"
+		},
+		{
+			"id": "2",
+			"name": "Monika",
+			"secondName": "Orlov",
+			"email": "test@gmail.com",
+			"phone": "+30630000000",
+			"dateRegistration": "25.10.2020"
+		},
+		{
+			"id": "3",
+			"name": "Abbama",
+			"secondName": "Orlov",
+			"email": "test@gmail.com",
+			"phone": "+30630000000",
+			"dateRegistration": "25.10.2020"
+		},
+		{
+			"id": "1",
+			"name": "Piter",
+			"secondName": "Orlov",
+			"email": "test@gmail.com",
+			"phone": "+30630000000",
+			"dateRegistration": "25.10.2020"
+		},
+		{
+			"id": "2",
+			"name": "Monika",
+			"secondName": "Orlov",
+			"email": "test@gmail.com",
+			"phone": "+30630000000",
+			"dateRegistration": "25.10.2020"
+		},
+		{
+			"id": "3",
+			"name": "Abbama",
+			"secondName": "Orlov",
+			"email": "test@gmail.com",
+			"phone": "+30630000000"
+		}
+	]
 }
