@@ -3,11 +3,11 @@
 		{
 			"id": "1",
 			"created_at": "1606382506",
-			"prodct": "Мужские часы",
+			"product": "Мужские часы",
 			"name": "Ivan",
 			"surname": "Ivanov",
 			"comment": "Good watch!",
-			"raiting": "4"
+			"rating": "4"
 		}
 	],
 	
