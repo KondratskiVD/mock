@@ -1,6 +1,6 @@
 {
 	
-	"attribute" : {
+	"attribute" : [{
 		"id": "1",
 		"name_ru": "new_name_ru",
 		"name_kz": "new_name_kz",
@@ -10,7 +10,7 @@
 			"image_attribute_value": "imageFile",
 			"position": "2"
 		}
-	},
+	}],
 	
 	"info": [
 		{
