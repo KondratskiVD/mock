@@ -1,6 +1,7 @@
 {
 	
 	"attribute" : {
+		"id": "1",
 		"name_ru": "new_name_ru",
 		"name_kz": "new_name_kz",
 		"attribute_value": {
