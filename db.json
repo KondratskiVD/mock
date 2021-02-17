@@ -1,19 +1,31 @@
 {
 	
-	"attribute" : [{
-		"id": "1",
-		"name_ru": "new_name_ru",
-		"name_kz": "new_name_kz",
-		"attribute_value": 
-		[
-			{
-			"name_ru": "new_name_ru",
-			"new_name_kz": "new_name_kz",
-			"image_attribute_value": "imageFile",
-			"position": "2"
-			}
-		]
-	}],
+	"products" : [
+		  {
+		    "id": 1,
+		    "title": "watch",
+		    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+		    "image": "",
+		    "count": "1",
+		    "price": "435"
+		  },
+		  {
+		    "id": 2,
+		    "title": "bag",
+		    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+		    "image": "",
+		    "count": "1",
+		    "price": "205"
+		  },
+		  {
+		    "id": 3,
+		    "title": "charge",
+		    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+		    "image": "",
+		    "count": "2",
+		    "price": "75"
+		  }
+		],
 	
 	"info": [
 		{
