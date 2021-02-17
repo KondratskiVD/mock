@@ -3,7 +3,7 @@
 	"products" : [
 		  {
 		    "id": 1,
-		    "title": "watch",
+		    "title": "Watch",
 		    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
 		    "image": "",
 		    "count": "48",
@@ -11,7 +11,7 @@
 		  },
 		  {
 		    "id": 2,
-		    "title": "bag",
+		    "title": "Bag",
 		    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
 		    "image": "",
 		    "count": "1",
@@ -19,7 +19,7 @@
 		  },
 		  {
 		    "id": 3,
-		    "title": "charge",
+		    "title": "Charge",
 		    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
 		    "image": "",
 		    "count": "2",
